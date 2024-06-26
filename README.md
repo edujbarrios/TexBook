@@ -96,3 +96,19 @@ In a village of La Mancha, the name of which I have no desire to call to mind, t
 ```latex
   \include{chapters/chapter3}
 ```
+After that, create a `chapter3.tex` inside the `chapter` folder, and start writting the new chapter!
+
+## 🚀 Compile Your Book
+To compile your book as you are writting - to see how it's getting - run the following command in your terminal:
+
+```latex
+pdflatex main.tex
+```
+
+## 🤝 Contributing
+If you'd like to contribute to TexBook, feel free to fork the repository and submit a pull request. I welcome improvements and new features!
+In any case, this template is served as a starting point to start writting your own book!
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
