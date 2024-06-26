@@ -8,14 +8,6 @@ Welcome to TexBook, your very own LaTeX book template! This guide will help you 
 - `chapters/`: This folder contains separate `.tex` files for each chapter of your book.
 - `figures/`: Place your images here.
 - `main.tex`: The main file that compiles your book.
-- `preamble.tex`: Contains all the LaTeX packages and configurations.
-
-
-### 🔍 Explanation of Folders and Files
-
-- `chapters/`: This folder contains separate `.tex` files for each chapter of your book.
-- `figures/`: Place your images here.
-- `main.tex`: The main file that compiles your book.
 - `preamble.tex`: Contains all the LaTeX packages and configurations to set up the book styles.
 
 ## 📝 Writing Your Book
